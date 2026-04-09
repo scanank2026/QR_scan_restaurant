@@ -1,0 +1,5 @@
+{
+  "name": "ScanAnk",
+  "description": "A multi-tenant SaaS platform for restaurants to manage QR-based ordering, menus, and kitchen operations.",
+  "requestFramePermissions": []
+}
